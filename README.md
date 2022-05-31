@@ -92,3 +92,9 @@ I'm also interested in prehospital medecine, cryptography, finance and data secu
 </tbody>
 </table>
  
+ ### Projects : 
+ 
+ I challenged myself to build, deploy and explain end to end data science solutions to several concrete business use cases.
+ <ol>
+  <li><a href="https://github.com/SandroEph/abrecommenders">An end-to-end implementation of online recommender systems A/B testing</a> (still in progress 🚧)</li>
+ </ol>
