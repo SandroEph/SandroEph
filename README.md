@@ -1,7 +1,8 @@
 ### Sandro Ephrem
 
 <li> 🎓 I graduated with an MSc. in Software Engineering from USJ-ESIB in June 2021</li>
-<li> 👩🏻‍💻 I have 4 years of hands-on work experience with healthtech startups, mainly in machine learning and data visualisation. I am proficient in data analytics, machine learning, data visualisation and big data concepts and currently learning about cloud technologies. I have mainly worked in the medical insurance and diabetes space in healthtech startups.</li>
+<li> 👩🏻‍💻 I have 4 years of hands-on work experience with healthtech startups, mainly in machine learning and data visualisation. I am proficient in data analytics, machine learning, data visualisation and big data concepts and currently learning about cloud technologies. 
+I have mainly worked in the health insurance fraud detection and diabetes tech spaces.</li>
 <br>
 
 I'm interested in health technology, finance, cryptography and data security and privacy.
